@@ -26,5 +26,6 @@ This repo contains the writeups of varoius challenges from CTFs we have attempte
     - [uphpload](../TAMUctf2021/uphpload/uphpload) - [Sivakami Praveen](https://twitter.com/_5up3rn0v4_)
 
     - [API 2 : The SeQueL ](../TAMUctf2021/api) - [Aiswarya Nair & Srividhya Vasanth](https://twitter.com/Aiswary71806325)
+   -[bxxs](../zh3r0ctf/bxxs) -[ Aiswarya Nair & Srividhya Vasanth](https://twitter.com/Aiswary71806325)   
 
 
